@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "module": "esnext",
+    "types": []
+  },
+
+
+}

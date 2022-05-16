@@ -1,0 +1,198 @@
+{
+  "response_code":0,
+  "results":[
+     {
+        "niv1":[
+           {
+                    "category":"Science: Computers",
+                    "type":"multiple",
+                    "difficulty":"easy",
+                    "question":"HTML is what type of language?",
+                    "correct_answer":"Markup Language",
+                    "incorrect_answers":[
+                       "Macro Language",
+                       "Programming Language",
+                       "Scripting Language"
+                    ]
+                 },
+                 {
+                    "category":"Science: Computers",
+                    "type":"multiple",
+                    "difficulty":"easy",
+                    "question":"In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+                    "correct_answer":"Final",
+                    "incorrect_answers":[
+                       "Static",
+                       "Private",
+                       "Public"
+                    ]
+                 },
+                 {
+                    "category":"Science: Computers",
+                    "type":"multiple",
+                    "difficulty":"easy",
+                    "question":"What is the code name for the mobile operating system Android 7.0?",
+                    "correct_answer":"Nougat",
+                    "incorrect_answers":[
+                       "Ice Cream Sandwich",
+                       "Jelly Bean",
+                       "Marshmallow"
+                    ]
+                 },
+                 {
+                    "category":"Science: Computers",
+                    "type":"multiple",
+                    "difficulty":"easy",
+                    "question":"On Twitter, what was the original character limit for a Tweet?",
+                    "correct_answer":"140",
+                    "incorrect_answers":[
+                       "120",
+                       "160",
+                       "100"
+                    ]
+                 },
+                 {
+                    "category":"Science: Computers",
+                    "type":"multiple",
+                    "difficulty":"easy",
+                    "question":"How long is an IPv6 address?",
+                    "correct_answer":"128 bits",
+                    "incorrect_answers":[
+                       "32 bits",
+                       "64 bits",
+                       "128 bytes"
+                    ]
+                  }
+                  ]
+              },
+              {
+                 "niv2":[
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"hard",
+                       "question":"The Harvard architecture for micro-controllers added which additional bus?",
+                       "correct_answer":"Instruction",
+                       "incorrect_answers":[
+                          "Address",
+                          "Data",
+                          "Control"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"hard",
+                       "question":"The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+                       "correct_answer":"Micronesia",
+                       "incorrect_answers":[
+                          "Fiji",
+                          "Tuvalu",
+                          "Marshall Islands"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"hard",
+                       "question":"Who is the original author of the realtime physics engine called PhysX?",
+                       "correct_answer":"NovodeX",
+                       "incorrect_answers":[
+                          "Ageia",
+                          "Nvidia",
+                          "AMD"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"hard",
+                       "question":"Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+                       "correct_answer":"Game Maker",
+                       "incorrect_answers":[
+                          "Stencyl",
+                          "Construct",
+                          "Torque 2D"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"hard",
+                       "question":"Which of the following computer components can be built using only NAND gates?",
+                       "correct_answer":"ALU",
+                       "incorrect_answers":[
+                          "CPU",
+                          "RAM",
+                          "Register"
+                       ]
+                    }
+                 ]
+              },
+              {
+                 "niv3":[
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"medium",
+                       "question":"The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+                       "correct_answer":"Taiwan",
+                       "incorrect_answers":[
+                          "United States",
+                          "Germany",
+                          "China (People&#039;s Republic of)"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"medium",
+                       "question":"What was the name given to Android 4.3?",
+                       "correct_answer":"Jelly Bean",
+                       "incorrect_answers":[
+                          "Lollipop",
+                          "Nutella",
+                          "Froyo"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"medium",
+                       "question":"Which one of these is not an official development name for a Ubuntu release?",
+                       "correct_answer":"Mystic Mansion",
+                       "incorrect_answers":[
+                          "Trusty Tahr",
+                          "Utopic Unicorn",
+                          "Wily Werewolf"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"medium",
+                       "question":"Which of the following is a personal computer made by the Japanese company Fujitsu?",
+                       "correct_answer":"FM-7",
+                       "incorrect_answers":[
+                          "PC-9801",
+                          "Xmillennium ",
+                          "MSX"
+                       ]
+                    },
+                    {
+                       "category":"Science: Computers",
+                       "type":"multiple",
+                       "difficulty":"medium",
+                       "question":"When did the online streaming service &quot;Mixer&quot; launch?",
+                       "correct_answer":"2016",
+                       "incorrect_answers":[
+                          "2013",
+                          "2009",
+                          "2011"
+                       ]
+                    }
+                 ]
+              }
+           ]
+        }
+      
